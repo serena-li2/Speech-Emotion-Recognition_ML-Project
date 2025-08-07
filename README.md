@@ -1,2 +1,2 @@
-# Speech-Emotion-Recognition_ML-Project
-This project used ensemble methods to create a classfication model for recognizing different emotions in speech. The model is programmed in Python.
+# ML_Project---Speech-Emotion-Recognition
+Final Project for CS 4375 - Intro to Machine Learning. Utilized One-vs-Rest (OvR) Ensembling to classify emotion based on audio signal of different emotions.
